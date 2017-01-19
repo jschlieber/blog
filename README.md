@@ -1,2 +1,3 @@
-# blog
-Collection of Blogposts
+# Blog (Jürgen Schlieber)
+
+Collection of my personal Blogposts.
